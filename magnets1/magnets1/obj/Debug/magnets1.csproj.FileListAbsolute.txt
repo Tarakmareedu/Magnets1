@@ -1,0 +1,12 @@
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\bin\Debug\magnets1.exe.config
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\bin\Debug\magnets1.exe
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\bin\Debug\magnets1.pdb
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.csprojResolveAssemblyReference.cache
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.Form1.resources
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.Properties.Resources.resources
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.csproj.GenerateResource.Cache
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.exe
+c:\users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.pdb
+C:\Users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.Home.resources
+C:\Users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.membershipdetails.resources
+C:\Users\systems13\documents\visual studio 2015\Projects\magnets1\magnets1\obj\Debug\magnets1.Member_registration.resources
